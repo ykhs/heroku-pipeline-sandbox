@@ -1,0 +1,7 @@
+{
+  "name":"heroku-pipeline-sandbox",
+  "description":"",
+  "scripts":{},
+  "env":{},
+  "addons":[]
+}
